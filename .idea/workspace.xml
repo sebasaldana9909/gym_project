@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0859f4a-ff76-42e2-87a2-43fae3c8af38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aB6u4aqi0JT9Nwf1SgeGJthGDH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seapa\PycharmProjects\gym_projec\static" />
+      <recent name="C:\Users\seapa\PycharmProjects\gym_projec\static\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gym_projec" type="Python.DjangoServer" factoryName="Django server">
+      <module name="gym_projec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="gym_projec.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0859f4a-ff76-42e2-87a2-43fae3c8af38" name="Default Changelist" comment="" />
+      <created>1586196858654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586196858654</updated>
+      <workItem from="1586196904873" duration="8934000" />
+      <workItem from="1586299508251" duration="9631000" />
+      <workItem from="1586350371051" duration="9797000" />
+      <workItem from="1586368609260" duration="1068000" />
+      <workItem from="1586380916794" duration="481000" />
+      <workItem from="1586530166759" duration="447000" />
+      <workItem from="1586540653387" duration="3931000" />
+      <workItem from="1586548107292" duration="13473000" />
+      <workItem from="1586645453055" duration="2071000" />
+      <workItem from="1586736722256" duration="5309000" />
+      <workItem from="1586810642487" duration="8527000" />
+      <workItem from="1586906002440" duration="9047000" />
+      <workItem from="1586971924955" duration="1687000" />
+      <workItem from="1586986101423" duration="13557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586381344870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586381344870" />
+    <state x="726" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586816041152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586816041152" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586303468407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586303468407" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1587006667801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587006667801" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1587006667801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587006667801" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1587006667801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587006667801" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1587006667801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587006667801" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586986103663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586986103663" />
+  </component>
+</project>
